@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+// Mixins
+@import "assets/vendor/materialize/sass/components/prefixer";
+@import "assets/vendor/materialize/sass/components/mixins";
+
+// Reset
+@import "assets/vendor/materialize/sass/components/normalize";
+
+// components
+@import "assets/vendor/materialize/sass/components/color";
+@import "assets/vendor/materialize/sass/components/global";
+@import "assets/vendor/materialize/sass/components/icons-material-design";
+@import "assets/vendor/materialize/sass/components/grid";
+@import "assets/vendor/materialize/sass/components/navbar";
+@import "assets/vendor/materialize/sass/components/roboto";
+@import "assets/vendor/materialize/sass/components/typography";
+@import "assets/vendor/materialize/sass/components/cards";
+@import "assets/vendor/materialize/sass/components/toast";
+@import "assets/vendor/materialize/sass/components/tabs";
+@import "assets/vendor/materialize/sass/components/tooltip";
+@import "assets/vendor/materialize/sass/components/buttons";
+@import "assets/vendor/materialize/sass/components/dropdown";
+@import "assets/vendor/materialize/sass/components/waves";
+@import "assets/vendor/materialize/sass/components/modal";
+@import "assets/vendor/materialize/sass/components/collapsible";
+@import "assets/vendor/materialize/sass/components/materialbox";
+@import "assets/vendor/materialize/sass/components/form";
+@import "assets/vendor/materialize/sass/components/table_of_contents";
+@import "assets/vendor/materialize/sass/components/sideNav";
+@import "assets/vendor/materialize/sass/components/preloader";
+@import "assets/vendor/materialize/sass/components/date_picker/default.scss";
+@import "assets/vendor/materialize/sass/components/date_picker/default.date.scss";
+@import "assets/vendor/materialize/sass/components/date_picker/default.time.scss";

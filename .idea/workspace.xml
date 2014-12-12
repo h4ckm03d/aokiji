@@ -2,79 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="157c1751-6926-4fc2-9218-f3050d2a233f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/font/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/plugins/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/components/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/components/_comments.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/layouts/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/components/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/layouts/_general.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/_global.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/layouts/_header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/layouts/pages/_home.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/layouts/pages/_home.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/_main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/_materialize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/components/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/layouts/_pages.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/layouts/_posts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/layouts/_sidebar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/components/_wp-classes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/activation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/aokiji.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/base.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content-page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content-single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/content.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/editor-style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/entry-meta.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/extras.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/gallery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/head.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/init.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scss/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/nav.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/page-header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lang/roots.pot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/scripts.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/searchform.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template-custom.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/titles.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/utils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/wrapper.php" />
+      <change type="DELETED" beforePath="E:\dev\app\xampp\htdocs\wordpress\wp-content\themes\aokiji\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="E:\dev\app\xampp\htdocs\wordpress\wp-content\themes\aokiji\.idea\aokiji.iml" afterPath="" />
+      <change type="DELETED" beforePath="E:\dev\app\xampp\htdocs\wordpress\wp-content\themes\aokiji\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\dev\app\xampp\htdocs\wordpress\wp-content\themes\aokiji\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\dev\app\xampp\htdocs\wordpress\wp-content\themes\aokiji\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\dev\app\xampp\htdocs\wordpress\wp-content\themes\aokiji\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\dev\app\xampp\htdocs\wordpress\wp-content\themes\aokiji\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="E:\dev\app\xampp\htdocs\wordpress\wp-content\themes\aokiji\.idea\workspace.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="aokiji.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -112,8 +48,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22405271" vertical-offset="0" max-vertical-offset="607">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.18498367" vertical-offset="0" max-vertical-offset="919">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -224,38 +160,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aokiji" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aokiji" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aokiji" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="aokiji" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="font" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -313,7 +217,13 @@
       <option name="project" value="LOCAL" />
       <updated>1418395840347</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial commit. Replacing roots default using sass and materialize">
+      <created>1418396223359</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1418396223359</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -321,14 +231,14 @@
     <editor active="false" />
     <layout>
       <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -397,8 +307,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22405271" vertical-offset="0" max-vertical-offset="607">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.18498367" vertical-offset="0" max-vertical-offset="919">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>

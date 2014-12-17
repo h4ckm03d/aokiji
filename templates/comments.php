@@ -9,7 +9,8 @@
     <h2><?php printf(_nx('One response to &ldquo;%2$s&rdquo;', '%1$s responses to &ldquo;%2$s&rdquo;', get_comments_number(), 'comments title', 'roots'), number_format_i18n(get_comments_number()), '<span>' . get_the_title() . '</span>'); ?></h2>
 
     <ol class="comment-list">
-      <?php wp_list_comments(array('style' => 'ol', 'short_ping' => true)); ?>
+        <?php wp_list_comments('type=comment&callback=advanced_comment'); //this is the important part that ensures we call our custom comment layout defined above
+        ?>
     </ol>
 
     <?php if (get_comment_pages_count() > 1 && get_option('page_comments')) : ?>
@@ -32,5 +33,9 @@
     </div>
   <?php endif; ?>
 
-  <?php comment_form(); ?>
+  <div class="card">
+      <div class="card-content">
+        <?php comment_form(); ?>
+      </div>
+  </div>
 </section>

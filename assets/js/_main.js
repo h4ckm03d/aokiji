@@ -151,11 +151,11 @@ var Roots = {
         }
 
         // Toggle Flow Text
-        var toggleFlowTextButton = $('#flow-toggle')
+        var toggleFlowTextButton = $('#flow-toggle');
         toggleFlowTextButton.click( function(){
             $('#flow-text-demo').children('p').each(function(){
                 $(this).toggleClass('flow-text');
-            })
+            });
         });
 
 //    Toggle Containers on page

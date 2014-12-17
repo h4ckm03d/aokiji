@@ -18,7 +18,7 @@ Roots is a WordPress starter theme based on [HTML5 Boilerplate](http://html5boil
   * The latest [jQuery](http://jquery.com/) via Google CDN, with a local fallback
   * The latest [Modernizr](http://modernizr.com/) build for feature detection, with lean builds with Grunt
   * An optimized Google Analytics snippet
-* [Bootstrap](http://getbootstrap.com/)
+* [Materialize](http://materialize.com/)
 * Organized file and template structure
 * ARIA roles and microformats
 * [Theme activation](http://roots.io/roots-101/#theme-activation)

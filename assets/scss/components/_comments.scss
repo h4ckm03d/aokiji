@@ -3,6 +3,11 @@
 }
 .comment-list ol {
   list-style: none;
+  @extend .collection;
+}
+
+.comment-list li{
+  @extend .collection-item;
 }
 .comment-form p {
  
@@ -11,8 +16,10 @@
 .comment-form input[type="email"],
 .comment-form input[type="url"],
 .comment-form textarea {
-  
+
 }
 .comment-form input[type="submit"] {
-  
+  @extend .btn;
+  @extend .waves-light;
 }
+

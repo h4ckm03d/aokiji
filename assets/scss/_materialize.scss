@@ -3,12 +3,14 @@
 // Mixins
 @import "assets/vendor/materialize/sass/components/prefixer";
 @import "assets/vendor/materialize/sass/components/mixins";
+@import "assets/vendor/materialize/sass/components/color";
+
+@import "assets/vendor/materialize/sass/components/variables";
 
 // Reset
 @import "assets/vendor/materialize/sass/components/normalize";
 
 // components
-@import "assets/vendor/materialize/sass/components/color";
 @import "assets/vendor/materialize/sass/components/global";
 @import "assets/vendor/materialize/sass/components/icons-material-design";
 @import "assets/vendor/materialize/sass/components/grid";

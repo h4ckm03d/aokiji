@@ -32,10 +32,10 @@
       <?php _e('Comments are closed.', 'roots'); ?>
     </div>
   <?php endif; ?>
+<?php comment_form(); ?>
 
-  <div class="card">
+<!--   <div class="card">
       <div class="card-content">
-        <?php comment_form(); ?>
-      </div>
-  </div>
+              </div>
+  </div> -->
 </section>

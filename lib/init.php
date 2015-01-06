@@ -39,19 +39,19 @@ function roots_widgets_init() {
   register_sidebar(array(
     'name'          => __('Primary', 'roots'),
     'id'            => 'sidebar-primary',
-    'before_widget' => '<section class="widget %1$s %2$s">',
-    'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>',
+    'before_widget' => '<div class="col l4 s12"><section class="widget grey-text text-lighten-4 %1$s %2$s">',
+    'after_widget'  => '</section></div>',
+    'before_title'  => '<h5 class="white-text">',
+    'after_title'   => '</h5>',
   ));
 
   register_sidebar(array(
     'name'          => __('Footer', 'roots'),
     'id'            => 'sidebar-footer',
-    'before_widget' => '<section class="widget %1$s %2$s">',
-    'after_widget'  => '</section>',
-    'before_title'  => '<h3>',
-    'after_title'   => '</h3>',
+    'before_widget' => '<div class="col l4 s12"><section class="widget grey-text text-lighten-4 %1$s %2$s">',
+    'after_widget'  => '</section></div>',
+    'before_title'  => '<h5 class="white-text">',
+    'after_title'   => '</h5>',
   ));
 }
 add_action('widgets_init', 'roots_widgets_init');
